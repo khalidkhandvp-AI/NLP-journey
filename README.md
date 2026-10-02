@@ -1,2 +1,14 @@
 # NLP journey
-This is all my work that i am going to do in NLP
+This repository contains my NLP learning journey.
+
+Topics:
+    -NLP  Basics
+    -Text preprocessing
+    -NLTK
+    -spacy
+    -Machine Learning for NLP
+    -Transformers
+    -LLMs
+
+    
+
